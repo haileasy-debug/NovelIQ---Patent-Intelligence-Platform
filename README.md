@@ -3,6 +3,7 @@ An AI-powered patent intelligence platform that helps inventors and product team
 Instead of showing a static list of existing patents, NoveliQ takes your idea as input, compares it against both approved and pending patents, shows where your idea overlaps or differs, and recommends how to adjust your idea to make it more unique and defensible.
 Think of it as an AI guide that helps inventors and product teams turn ideas into stronger, patent-ready innovations.
 Built with
+
 Claude Code
 Key capabilities
 
@@ -20,4 +21,5 @@ Patent attorneys accelerating prior art analysis
 University and research labs assessing commercialization potential
 
 Impact
+
 80% reduction in patent search time compared to traditional manual review
