@@ -1,4 +1,4 @@
-NoveliQ - Patent Intelligence Platform
+Patentiq - Patent Intelligence Platform
 
 An AI-powered patent intelligence platform that helps inventors and product teams understand whether their invention idea is truly new and how to improve it so it can be patented.
 
